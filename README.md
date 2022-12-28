@@ -10,7 +10,7 @@ This design is based on the Pico Breadboard kit commonly found on Aliexpress. I 
 
 ## Video
 
-[![Preview](/images/image.png)](https://www.youtube.com/watch?v=13h_zA0ZCeg)
+[![Preview](/images/preview.png)](https://www.youtube.com/watch?v=13h_zA0ZCeg)
 
 ## Questions
 ✉️ Contact me with any questions: [email](mailto:support@themodshop.co)<br />
