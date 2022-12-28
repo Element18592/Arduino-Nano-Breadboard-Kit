@@ -29,3 +29,5 @@ LED1 - Blue 0805
 LED2 - Blue 0805
 LED3 - Blue 0805
 LED4 - Blue 0805
+
+Breadboard - Half-Size Breadboard
